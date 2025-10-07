@@ -1,0 +1,17 @@
+{
+  "name": "jose-utils",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "validator"
+  ],
+  "author": "JOSE DE LOS SANTOS RAMOS",
+  "license": "ISC",
+  "description": "Some utils",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
