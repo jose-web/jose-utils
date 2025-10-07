@@ -3,7 +3,10 @@
   "version": "1.0.3",
   "main": "index.js",
   "types": "index.d.ts",
-  "repository": "https://github.com/jose-web/jose-utils",
+  "repository": "https://github.com/jose-web/jose-utils.git",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "scripts": {
     "test": "jest"
   },
