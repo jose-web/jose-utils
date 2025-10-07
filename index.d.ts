@@ -1,0 +1,1 @@
+export function isAlphaNumeric(str: string): boolean;

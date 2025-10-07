@@ -2,6 +2,7 @@
   "name": "jose-utils",
   "version": "1.0.1",
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "test": "jest"
   },
